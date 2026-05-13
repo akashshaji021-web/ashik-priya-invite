@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import ring from "./assets/ring.jpeg"
 
 function App() {
 
@@ -164,11 +165,11 @@ function App() {
       {/* FINAL PHOTO PAGE */}
       <section className="photo-page">
 
-        <img
-          src="/ring.jpeg"
-          alt="Wedding Rings"
-          className="ring-photo"
-        />
+    <img
+  src={ring}
+  alt="Wedding Rings"
+  className="ring-photo"
+/>
 
         <h2 className="photo-title">
           A New Chapter Begins
