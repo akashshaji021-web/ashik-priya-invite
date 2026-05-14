@@ -89,6 +89,12 @@ function App() {
           You are invited!
         </p>
 
+       
+<p className="desc">
+  TO CELEBRATE THE WEDDING RECEPTION OF
+</p>
+
+
         <h1 className="name">
           Ashik
         </h1>
@@ -102,9 +108,9 @@ function App() {
         </h1>
 
         <p className="desc">
-          WE CORDIALLY INVITE YOU TO JOIN US AT OUR
+          YOUR PRESENCE WILL MAKE OUR CELEBRATION 
           <br />
-          WEDDING RECEPTION
+          EVEN MORE SPECIAL
         </p>
 
       </div>
@@ -115,11 +121,21 @@ function App() {
         {/* BIG CARD */}
         <div className="event-card main-card">
 
+
+          
+          <p className="big-title">
+            MARRIAGE
+          </p>
+
+
           <p className="day">
             SUNDAY
           </p>
 
-          <h1 className="main-date">
+          
+
+         <h1 className="main-date marriage-date">
+
             <span>May</span> 31, 2026
           </h1>
 
@@ -146,8 +162,15 @@ function App() {
             RECEPTION
           </p>
 
+        
+        <h1 className="main-date reception-date">
+          
+            <span>June</span> 7th, 2026
+          </h1>
+
+
           <p>
-            7th June 2026 @ Trivandrum
+            @ Trivandrum
           </p>
 
           <p>
