@@ -583,6 +583,16 @@ body {
     text-align: center;
   }
 
+  
+@media (max-width: 768px) {
+  .photo-page {
+    margin-top: -40px;
+  }
+}
+
+
+
+
   /* FLOATING DOTS */
   .floating-dot {
     width: 5px;
