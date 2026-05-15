@@ -168,18 +168,20 @@ function App() {
             <span>June</span> 7th, 2026
           </h1>
 
-
-          <p>
-            @ Trivandrum
+           <p>
+            From 4:30 PM – 8:30 PM
           </p>
+
 
           <p>
             Sreepadmam Auditorium, West Fort
           </p>
 
+         
           <p>
-            From 4:30 PM – 8:30 PM
+            @ Trivandrum
           </p>
+
 
         </div>
 

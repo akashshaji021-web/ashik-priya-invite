@@ -173,10 +173,11 @@ body {
 /* SMALL CARD */
 
 
+
 .small-card {
   width: 400px;
   font-family: 'Playfair Display', serif;  /* 🔥 fix */
-  font-size: 32px;
+  font-size: 24px;
   line-height: 1.9;
   color: #444;
 }
@@ -186,6 +187,7 @@ body {
 .small-card p {
   margin: 8px 0;
 }
+
 
 
 
@@ -220,19 +222,19 @@ body {
 
 /* first line (date line) */
 .small-card p:first-of-type {
-  font-size: 26px;
+  font-size: 28px;
   letter-spacing: 1px;
 }
 
 /* venue line */
 .small-card p:nth-of-type(2) {
-  font-size: 26px;
+  font-size: 23px;
   color: #666;
 }
 
 /* time line */
 .small-card p:nth-of-type(3) {
-  font-size: 26px;
+  font-size: 23px;
   color: #777;
 }
 
@@ -250,11 +252,11 @@ body {
 }
 
 .reception-date {
-  font-size: 30px !important;
+  font-size: 40px !important;
 }
 
 .reception-date span {
-  font-size: 68px !important;
+  font-size: 55px !important;
 }
 
 
@@ -418,7 +420,9 @@ body {
 }
 
 
-
+.small-card p {
+  font-size: 24px !important;
+}
 
 
 
