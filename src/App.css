@@ -513,7 +513,7 @@ body {
   /* LANDING */
 
 .p-letter {
-  transform: translateX(-5px);
+  transform: translateX(-5px)!important;
 }
 
 
