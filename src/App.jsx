@@ -162,26 +162,28 @@ function App() {
             RECEPTION
           </p>
 
-        
-        <h1 className="main-date reception-date">
-          
-            <span>June</span> 7th, 2026
-          </h1>
+  
+    <p className="dayto">SUNDAY</p>
 
-           <p>
+<h1 className="main-date reception-date">
+  <span>June</span> 7th, 2026
+</h1>
+
+          
+
+           <p className="time-text">
             From 4:30 PM – 8:30 PM
           </p>
 
 
-          <p>
-            Sreepadmam Auditorium, West Fort
-          </p>
+        <p className="reception-venue">
+  SREEPADMAM AUDITORIUM, WEST FORT
+</p>
 
-         
-          <p>
-            @ Trivandrum
-          </p>
 
+         <p className="reception-place">
+  TRIVANDRUM
+</p>
 
         </div>
 
