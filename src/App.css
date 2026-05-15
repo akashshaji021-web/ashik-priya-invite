@@ -511,6 +511,13 @@ body {
 @media screen and (max-width: 768px) {
 
   /* LANDING */
+
+.p-letter {
+  transform: translateX(-5px);
+}
+
+
+
   .seal {
     width: 170px;
     height: 170px;
