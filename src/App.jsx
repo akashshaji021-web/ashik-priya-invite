@@ -177,7 +177,7 @@ function App() {
 
 
         <p className="reception-venue">
-  SREEPADMAM AUDITORIUM, WEST FORT 
+  SREEPADMAM AUDITORIUM WEST FORT 
 </p>
 
 
