@@ -146,7 +146,7 @@ function App() {
           <div className="divider-line"></div>
 
           <p className="venue-main">
-            MAHARAJA BANQUET ,ADHARWADI CHOWK KALYAN (W)
+            MAHARAJA BANQUET ADHARWADI CHOWK KALYAN (W)
           </p>
 
           <p className="venue-sub">
