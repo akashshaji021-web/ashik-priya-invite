@@ -229,7 +229,7 @@ body {
 
 
 .reception-place {
-  font-size: 17px !important;
+  font-size: 14px !important;
    color: #777;
   font-family: 'Cinzel', serif !important;
   letter-spacing: 1px !important;
@@ -304,7 +304,7 @@ body {
    margin-top: 10px !important;
    margin-bottom: 10px !important;
 
-  font-size: 14px !important;
+  font-size:16px !important;
 
   letter-spacing: 4px !important;
 
@@ -392,6 +392,9 @@ body {
 }
 
 @media (min-width: 769px){
+
+
+
 
   .curve-right-bottom{
     position: absolute;
