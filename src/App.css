@@ -643,8 +643,8 @@ body {
   .curve-right-bottom{
     position: absolute;
 
-    right: -45px;
-    bottom: 130px;
+    right: -55px;
+    bottom: 110px;
 
     width: 170px;
     z-index: 1;
