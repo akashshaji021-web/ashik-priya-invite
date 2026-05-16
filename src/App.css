@@ -217,6 +217,7 @@ body {
 
 
 
+
 .small-card p:first-of-type,
 .small-card p:nth-of-type(2),
 .small-card p:nth-of-type(3),
@@ -224,12 +225,20 @@ body {
   margin: 23px 0 !important;
 }
 
+/* reception place tvm */
 
 
 .reception-place {
-  font-size: 19px !important;
+  font-size: 17px !important;
    color: #777;
-   font-family: 'Playfair Display', serif !important;
+  font-family: 'Cinzel', serif !important;
+  letter-spacing: 1px !important;
+}
+
+  .reception-place{
+  position: relative !important;
+
+  top:5px !important;
 }
 
 
@@ -252,8 +261,8 @@ body {
 .small-card p:nth-of-type(3) {
   font-size: 18px !important;
   color: #777;
-  margin-top: 10px !important;
-  margin-bottom: -10px !important;
+  margin-top: -20px !important;
+  margin-bottom: 5px !important;
 }
 
 
@@ -285,14 +294,19 @@ body {
 }
 
 
-
+/* reception sreepadmAm */
 
 .reception-venue{
-  font-family: 'Cinzel', serif !important;
+   color: #777;
+   color: #444 !important; 
+     font-family: 'Cinzel', serif !important;
 
-  font-size: 16px !important;
+   margin-top: 10px !important;
+   margin-bottom: 10px !important;
 
-  letter-spacing: 5px !important;
+  font-size: 14px !important;
+
+  letter-spacing: 4px !important;
 
   line-height: 2 !important;
 
@@ -343,16 +357,19 @@ body {
   margin: 20px auto;
 }
 
-/* VENUE */
+/* marriage place  */
 .venue-main {
   letter-spacing: 2px;
-  font-size: 13px;
+  font-size: 13px !important;
   color: #444;
 }
 
+
+/* maharshtra */
+
 .venue-sub {
   margin-top: 8px;
-  font-size: 14px;
+  font-size: 14px !important;
   color: #777;
 }
 
@@ -662,8 +679,9 @@ body {
   }
 
   .venue-main {
-    font-size: 13px;
-    line-height: 1.8;
+    font-size: 16px !important;
+  letter-spacing: 2px;
+  line-height: 1.8;
   }
 
   .venue-sub {
